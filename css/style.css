@@ -484,6 +484,35 @@
       width: calc(80% - 10px);
       align-items: center;
     }
+
+    .recommend-text {
+      color: #ffffff;
+      margin-left: 500px;
+      margin-right: 100px;
+      margin-top: 20px;
+      padding-bottom: 40px;
+      align-items: center;
+    }
+  
+    .recommend-name2 {
+      color: #ffa588;
+      margin-right: 250px;
+      margin-top: 50px;
+      font-weight: bold;
+    }
+  
+    .recommend-name1 {
+      color: #ffa588;
+      text-align: right;
+      margin-right: 15px;
+      font-weight: bold;
+    }
+    .recommend-img {
+      float: left;
+      height: 260px;
+      margin-top: 120px;
+      padding-left: 150px;
+    }
   
     .contact-form .item {
       width: 100%;
